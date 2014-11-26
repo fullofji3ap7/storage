@@ -12,3 +12,5 @@ Data:
   Media Name:	APPLE SSD SM0256F Media
 
 Free: 11.21 GB
+
+size for storage
