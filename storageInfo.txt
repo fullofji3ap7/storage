@@ -11,3 +11,4 @@ Data:
   Physical Drive:
   Media Name:	APPLE SSD SM0256F Media
 
+info for storage
